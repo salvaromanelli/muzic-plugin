@@ -1,5 +1,7 @@
 # muzic for Claude Code
 
+🇪🇸 **¿Hablás español?** Leé la [guía para productores](GUIA.md).
+
 A plugin that lets Claude listen to a track: tempo, key, the chord
 progression bar by bar, the energy arc, mood, genre, melody range and
 loudness, then proposes the Ableton project setup and, if your Live set is
